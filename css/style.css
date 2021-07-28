@@ -1,0 +1,12 @@
+/* top bar custom style */
+.top-bar {
+  background-color: #fff9f4;
+}
+.nike-btn-buy-now{
+    background-image: linear-gradient(to bottom, #1c0bcc 0%, #1405ad 100%);
+  color: white;
+  border-radius: 8px;
+  padding: 9px 25px;
+  border: none;
+}
+}
